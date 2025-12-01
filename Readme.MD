@@ -7,8 +7,8 @@
 ### DevOps Engineer @ AlTech Star Solutions Pvt ltd
 🚀 DevOps • SRE | AWS  | CI/CD | Docker | Kubernetes | Terraform | Ansible |
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/lakshmanudu-pagala-501262324/)
-[![Gmail](https://img.shields.io/badge/Email-laxman.gdn@gmail.com-red?logo=gmail&style=flat)](mailto:laxman.gdn@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/kirankumarpinapatruni/)
+[![Gmail](https://img.shields.io/badge/Email-kirankumar.pinapatruni@gmail.com-red?logo=gmail&style=flat)](mailto:kirankumar.pinapatruni@gmail.com)
 
 ---
 
@@ -140,9 +140,9 @@ Passionate **DevOps & Site Reliability Engineer** with **7+ years of experience*
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lakshmanp145&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Lakshmanp145&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshmanp145&theme=dark&hide_border=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kkumar-2655&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=kkumar-2655&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkumar-2655&theme=dark&hide_border=false&layout=compact" />
 </div>
 
 ---
@@ -158,7 +158,7 @@ Passionate **DevOps & Site Reliability Engineer** with **7+ years of experience*
 ---
 
 ### 📊 GitHub Activity Graph
-[![Lakshman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lakshmanp145&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Kiran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kkumar-2655&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
